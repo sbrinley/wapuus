@@ -2,4 +2,6 @@
 Wapuu files for your use.
 
 <h2>Wapuu in Jaguar Costume</h2>
-<a href=“https://github.com/sbrinley/wapuus/blob/master/wapuu-jags.png”>![Wapuu in Jaguar Costume](wapuu-jags.png?raw=true "Title”)</a>
+<p>
+<a href=“/sbrinley/jags/" target="_blank"><img src="/jags/wapuu-jags.png" alt="Wapuu in Jaguar Costume" style="max-width:100%;"></a>
+</p>
